@@ -1,0 +1,40 @@
+Item: Apple, Quantity: 2, Price per item: 30.00, Total: 60.00
+Subtotal: 60.00
+Tax (5%): 3.00
+Total Amount: 63.00
+****************************
+Item: Mango, Quantity: 5, Price per item: 50.00, Total: 250.00
+Subtotal: 250.00
+Tax (5%): 12.50
+Total Amount: 262.50
+****************************
+Item: Orange, Quantity: 2, Price per item: 40.00, Total: 80.00
+Subtotal: 80.00
+Tax (5%): 4.00
+Total Amount: 84.00
+****************************
+Item: Apple, Quantity: 3, Price per item: 30.00, Total: 90.00
+Subtotal: 90.00
+Tax (5%): 4.50
+Total Amount: 94.50
+****************************
+Item: Mango, Quantity: 2, Price per item: 50.00, Total: 100.00
+Subtotal: 100.00
+Tax (5%): 5.00
+Total Amount: 105.00
+****************************
+Item: Orange, Quantity: 6, Price per item: 40.00, Total: 240.00
+Subtotal: 240.00
+Tax (5%): 12.00
+Total Amount: 252.00
+****************************
+Item: Orange, Quantity: 6, Price per item: 40.00, Total: 240.00
+Subtotal: 240.00
+Tax (5%): 12.00
+Total Amount: 252.00
+****************************
+Item: Orange, Quantity: 12, Price per item: 40.00, Total: 480.00
+Subtotal: 480.00
+Tax (5%): 24.00
+Total Amount: 504.00
+****************************
